@@ -167,4 +167,4 @@ Full Stack Developer • AI/ML • Microservices • Conversational Commerce
 ---
 
 ## ⭐ Acknowledgement  
-Built as a submission for **EY Techathon 6.0** demonstrating scalable, agentic AI for omnichannel retail.
+Built as a submission for **EY Techathon 6.0 Round 2** demonstrating scalable, agentic AI for omnichannel retail.
