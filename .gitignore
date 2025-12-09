@@ -1,0 +1,12 @@
+# Node modules
+**/node_modules
+**/.env
+**/.env.local
+
+# Build files
+**/.next
+**/dist
+**/coverage
+
+# OS files
+.DS_Store
